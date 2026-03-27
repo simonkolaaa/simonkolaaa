@@ -20,7 +20,6 @@
 I'm a fifth-year IT student passionate about building clean, efficient, and user-friendly web applications. I love solving complex problems and turning ideas into code.
 
 - Studying Computer Science
-- Specialized in **Python (Flask)** and **Web Technologies (HTML/JS/CSS)**
 - Exploring the world of Software Engineering
 
 ---
