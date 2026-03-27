@@ -16,16 +16,16 @@
 
 ---
 
-### 🚀 About Me
+###  About Me
 I'm a fifth-year IT student passionate about building clean, efficient, and user-friendly web applications. I love solving complex problems and turning ideas into code.
 
-- 👨‍🎓 Studying Computer Science
-- 💻 Specialized in **Python (Flask)** and **Web Technologies (HTML/JS/CSS)**
-- 🌍 Exploring the world of Software Engineering
+- Studying Computer Science
+- Specialized in **Python (Flask)** and **Web Technologies (HTML/JS/CSS)**
+- Exploring the world of Software Engineering
 
 ---
 
-### 🛠️ My Tech Stack
+### My Tech Stack
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -35,7 +35,7 @@ I'm a fifth-year IT student passionate about building clean, efficient, and user
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=simonkolaaa&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" height="170" alt="stats report" />
